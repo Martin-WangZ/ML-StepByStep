@@ -1,6 +1,6 @@
 # ML-Tutorial
 
 ##Part 1:
-Implement ML algorithms step by step
+Implement ML algorithms step by step:
 
 
